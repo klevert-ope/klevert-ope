@@ -1,4 +1,4 @@
-# 👋 Klevert Ope
+# 👋 Klevert Opee
 
 **Senior Software Engineer | Distributed Systems | Fintech & Crypto Platforms**
 
