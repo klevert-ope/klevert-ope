@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I am a Senior Software Engineer with 5+ years of experience building **scalable, secure, and event-driven systems**. My work focuses on **fintech, crypto trading, compliance systems, and internal platforms** that operate under real-world constraints such as high throughput, regulatory requirements, and operational reliability.
+I am a Senior Software Engineer with 5+ years of experience building scalable, secure, and event-driven systems. My work focuses on fintech, crypto trading, compliance systems, and internal platforms that operate under real-world constraints such as high throughput, regulatory requirements, and operational reliability.
 
 I enjoy working close to the system internals — designing architectures, building performant services, and turning complex business and regulatory requirements into maintainable software.
 
@@ -59,9 +59,9 @@ I enjoy working close to the system internals — designing architectures, build
 
 ## 📐 Engineering Principles
 
-- Design for **scalability, observability, and failure**
-- Prefer **simple, explicit architectures** over hidden complexity
-- Build systems that are **operationally boring** and easy to maintain
+- Design for scalability, observability, and failure
+- Prefer simple, explicit architectures over hidden complexity
+- Build systems that are operationally boring and easy to maintain
 - Automate where possible to reduce manual effort
 
 ---
