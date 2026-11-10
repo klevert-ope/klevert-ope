@@ -1,81 +1,41 @@
-# 👋 Klevert Opee
+Klevert Opee
 
-**Senior Software Engineer | Distributed Systems | Fintech & Crypto Platforms**
+Senior Software Engineer | Distributed Systems | Fintech | Infrastructure
 
----
+I’m a software engineer with 5+ years of experience designing and building production systems, particularly in fintech, digital assets, and financial infrastructure.
 
-## 🧑‍💻 About Me
-I am a Senior Software Engineer with 5+ years of experience building scalable, secure, and event-driven systems. My work focuses on fintech, crypto trading, compliance systems, and internal platforms that operate under real-world constraints such as high throughput, regulatory requirements, and operational reliability.
+My work spans backend engineering, distributed systems, blockchain integrations, and DevOps. I care about what happens beyond deployment: how systems perform under load, recover from failure, protect data, and remain maintainable as they grow.
 
-I enjoy working close to the system internals — designing architectures, building performant services, and turning complex business and regulatory requirements into maintainable software.
+I prefer simple architectures, explicit contracts, and software that is easy to operate.
 
----
+What I build
 
-## 🚀 What I Work On
+* Financial systems: Trading platforms, accounting, reconciliation, payment workflows, and KYT/AML integrations.
+* Distributed systems: Event-driven services, asynchronous processing, concurrency, and fault-tolerant architectures.
+* Infrastructure: Linux servers, containers, CI/CD, monitoring, and production operations.
+* Developer platforms: APIs, internal tools, automation, and data pipelines.
 
-- **Distributed Systems & Microservices**  
-  Event-driven architectures, service decoupling, fault tolerance, scalability
+Technical expertise
 
-- **Crypto & Fintech Platforms**  
-  Digital asset trading systems, KYT/AML monitoring, blockchain transaction analysis, on-chain reconciliation, accounting systems
+Area	Technologies
+Languages	Java, Rust, Go, Python, JavaScript
+Backend	Spring Boot, Django, FastAPI, Node.js
+Frontend	React, Vite, HTMX, Thymeleaf
+Data	PostgreSQL, MySQL, MongoDB, Redis, Oracle
+Messaging	Apache Kafka
+Infrastructure	Linux, Docker, Kubernetes, AWS, Azure, CI/CD
 
-- **Streaming & Data Pipelines**  
-  Apache Kafka, async processing, operational and analytics pipelines
+Engineering philosophy
 
-- **Internal Tools & Platforms**  
-  Documentation systems, project tracking, cost & revenue analysis, dashboards, data analytics software
+Build for failure. Measure performance. Keep complexity under control.
 
-- **Security & Reliability**  
-  Secure API design, encryption, authentication & authorization, audit-ready systems
+Good software should be secure, observable, predictable, and maintainable long after its first release.
 
----
+Current interests
 
-## 🛠️ Tech Stack
+Rust, high-performance systems, programmable payments, blockchain infrastructure, and distributed computing.
 
-### 💻 Languages
-- **Java** (Spring Boot, Java EE)
-- **Rust** (high-performance services, systems-level components)
-- **Golang**
-- **Python**
-- **JavaScript / Node.js**
+Connect
 
-### 🎨 Frontend
-- React, Vite
-- HTMX, Thymeleaf, Alpine.js
-
-### 🗄️ Data & Storage
-- PostgreSQL, MySQL, MongoDB
-- Redis, Oracle SQL
-
-### 📡 Messaging & Streaming
-- Apache Kafka
-
-### ☁️ Cloud & DevOps
-- AWS, Azure
-- Docker, Kubernetes
-- Linux, CI/CD
-
----
-
-## 📐 Engineering Principles
-
-- Design for scalability, observability, and failure
-- Prefer simple, explicit architectures over hidden complexity
-- Build systems that are operationally boring and easy to maintain
-- Automate where possible to reduce manual effort
-
----
-
-## 🔍 Currently Interested In
-
-- High-performance backend systems in **Rust**
-- Event-driven architectures and stream processing
-- Blockchain infrastructure and compliance tooling
-- System design for regulated environments
-
----
-
-📫 **Contact**  
-- GitHub: https://github.com/klevert-ope  
-- Email: klevertope@gmail.com
-
+* GitHub: https://github.com/klevert-ope
+* Email: klevertope@gmail.com
